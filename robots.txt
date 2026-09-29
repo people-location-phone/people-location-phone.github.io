@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://people-location-phone.github.io/sitemap.xml
